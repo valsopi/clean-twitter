@@ -1,7 +1,7 @@
 # clean-twitter
-"Clean twitter" gives you the ability to hide Trending topics in Chrome.
+"Clean twitter" gives you the ability to hide "Trending" topics and the "#Explore" button in Chrome.
 
-If you use Twitter on the web, this extension helps you focus on your feed without getting overwhelemed and distracted by Trending topics.
+If you use Twitter on the web, this extension helps you focus on your feed without getting overwhelemed and distracted.
 
 ## Upload extension
 1. Download all files to your computer and place them in a folder
@@ -10,6 +10,6 @@ If you use Twitter on the web, this extension helps you focus on your feed witho
 4. Select the folder with your downloaded files
 5. Voila!
 
-Now, whenever you visit Twitter on Chrome, you wont see "Trending" topics.
+Now, whenever you visit Twitter on Chrome, you wont see "Trending" topics or the "#Explore" button to the left.
 
 To disable the extension, either make it inactive or "Remove from Chrome" completely.
