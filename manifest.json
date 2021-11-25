@@ -1,0 +1,10 @@
+{
+  "name": "Hide trending",
+  "description": "Clean twitter!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://twitter.com/*"]
+  }]
+}
