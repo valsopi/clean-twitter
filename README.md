@@ -1,6 +1,8 @@
 # clean-twitter
 "Clean twitter" gives you the ability to hide "Trending" topics and the "#Explore" button in Chrome.
 
+It also hides the Twitter logo.
+
 If you use Twitter on the web, this extension helps you focus on your feed without getting overwhelemed and distracted.
 
 ## Upload extension
